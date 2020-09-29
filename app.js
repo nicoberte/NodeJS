@@ -4,7 +4,7 @@ const mongoose = require ("mongoose");
 
 const app = express();
 
-const uri = "mongodb+srv://nico:nico@cluster0.ca6e6.mongodb.net/tpnodejs?retryWrites=true&w=majority";
+const uri = /*****conexionDB *****/
 
 app.use(express.json());
 
